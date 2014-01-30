@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1391104844 source:/home/alexander/Projects/CodeBlocks/Class/main.cpp
+	<iostream>
+	"Personaje.h"
+	"Curador.h"
+	"Tanque.h"
+	"MagoOscuro.h"
+
+1391017819 /home/alexander/Projects/CodeBlocks/Class/Personaje.h
+	<iostream>
+
+1391017125 source:/home/alexander/Projects/CodeBlocks/Class/Personaje.cpp
+	"Personaje.h"
+
+1391018090 source:/home/alexander/Projects/CodeBlocks/Class/Curador.cpp
+	"Curador.h"
+
+1391017696 /home/alexander/Projects/CodeBlocks/Class/Curador.h
+	"Personaje.h"
+
+1391020086 source:/home/alexander/Projects/CodeBlocks/Class/Tanque.cpp
+	"Tanque.h"
+
+1391019641 /home/alexander/Projects/CodeBlocks/Class/Tanque.h
+	"Personaje.h"
+
+1391104863 source:/home/alexander/Projects/CodeBlocks/Class/MagoOscuro.cpp
+	"MagoOscuro.h"
+
+1391104496 /home/alexander/Projects/CodeBlocks/Class/MagoOscuro.h
+	"Personaje.h"
+
